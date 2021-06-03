@@ -11,3 +11,8 @@
 
 > [링크](https://seminoh.oopy.io/f79d2840-dc45-4582-a33d-98ea39a146bb)
 
+
+* [BTTR] Handwritten mathematical Expression Recognition with Bidirectionally Trained Transformer
+> Image to Text, Text Recognition
+
+> [링크](https://seminoh.oopy.io/9ee50dd4-55f5-452d-bb71-963e03e3edc1)
